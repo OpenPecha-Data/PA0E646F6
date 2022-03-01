@@ -1,0 +1,13 @@
+id: PA0E646F6
+initial_creation_type: input
+source_metadata:
+  title: 'MSV 4,00: Kṣudrakavastu'
+  language: bo
+  volumes:
+    185fff878fb443a299fb8c0226461ac9:
+      title: Kṣudrakavastu
+      base_file: Kṣudrakavastu.txt
+      work_id: W8CFA9919
+  chapter_to_tile: {}
+created_at: '2022-03-01T22:51:36.482154'
+last_modified_at: '2022-03-01T22:51:36.482161'
